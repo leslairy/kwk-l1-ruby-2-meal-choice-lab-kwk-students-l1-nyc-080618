@@ -1,4 +1,4 @@
-require 'spec_helper'
+def spec_helper
 
 
 describe "#snacks" do 
